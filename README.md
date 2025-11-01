@@ -44,26 +44,26 @@ This project automates **data cleaning, deduplication, and enrichment** to ensur
 
 The project is organized as follows 👇  
 
-FlipkartCatalogDeduplication/
-┣ src/
-┃ ┣ main/java/com/flipkartcatalog/
-┃ ┃ ┣ io/
-┃ ┃ ┃ ┣ ProductReader.java
-┃ ┃ ┃ ┗ ProductWriter.java
-┃ ┃ ┣ logic/
-┃ ┃ ┃ ┣ DeduplicationEngine.java
-┃ ┃ ┃ ┗ EnrichmentEngine.java
-┃ ┃ ┣ model/
-┃ ┃ ┃ ┗ Product.java
-┃ ┃ ┗ MainApp.java
-┃ ┗ resources/
-┃ ┃ ┣ flipkart_com-ecommerce_sample.csv
-┃ ┃ ┗ output.csv
-┣ test/java/com/flipkartcatalog/logic/
-┃ ┣ DeduplicationEngineTest.java
-┃ ┗ EnrichmentEngineTest.java
-┣ pom.xml
-┗ README.md
+- FlipkartCatalogDeduplication/
+- ┣ src/
+- ┃ ┣ main/java/com/flipkartcatalog/
+- ┃ ┃ ┣ io/
+- ┃ ┃ ┃ ┣ ProductReader.java
+- ┃ ┃ ┃ ┗ ProductWriter.java
+- ┃ ┃ ┣ logic/
+- ┃ ┃ ┃ ┣ DeduplicationEngine.java
+- ┃ ┃ ┃ ┗ EnrichmentEngine.java
+- ┃ ┃ ┣ model/
+- ┃ ┃ ┃ ┗ Product.java
+- ┃ ┃ ┗ MainApp.java
+- ┃ ┗ resources/
+- ┃ ┃ ┣ flipkart_com-ecommerce_sample.csv
+- ┃ ┃ ┗ output.csv
+- ┣ test/java/com/flipkartcatalog/logic/
+- ┃ ┣ DeduplicationEngineTest.java
+- ┃ ┗ EnrichmentEngineTest.java
+- ┣ pom.xml
+- ┗ README.md
 
 
 ---
