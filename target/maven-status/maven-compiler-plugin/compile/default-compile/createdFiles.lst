@@ -1,0 +1,6 @@
+com/flipkartcatalog/logic/DeduplicationEngine.class
+com/flipkartcatalog/io/ProductWriter.class
+com/flipkartcatalog/MainApp.class
+com/flipkartcatalog/model/Product.class
+com/flipkartcatalog/logic/EnrichmentEngine.class
+com/flipkartcatalog/io/ProductReader.class
