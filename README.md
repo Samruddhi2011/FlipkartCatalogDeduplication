@@ -1,6 +1,5 @@
 # Flipkart Catalog Deduplication and Enrichment Engine  
 
-### Internship Project | InfoBeans Technologies  
 A **Java Maven–based data engineering project** designed to enhance the quality and usability of large-scale e-commerce product data.  
 The system automatically removes duplicate listings, fills missing categories, and exports clean, structured data—making it ready for analytics and reporting pipelines.
 
